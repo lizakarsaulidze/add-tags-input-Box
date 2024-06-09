@@ -38,7 +38,6 @@ body{
 .content ul li{
   list-style: none;
   max-width: 4px 3px;
-  background: #f2f2f2;
   border-radius: 5px;
   padding: 5px 8px 5px 10px;
   border: 1px solid #e3d1e1;
